@@ -11,7 +11,7 @@ import { WishlistProvider } from "./components/WishlistProvider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "FreshFruit - Toko Buah Online Premium",
+  title: "Buahnesia - Toko Buah Online Premium",
   description:
     "Belanja buah segar berkualitas premium dengan pengiriman cepat ke seluruh Indonesia. Jaminan fresh atau uang kembali.",
   keywords: "buah segar, toko buah online, buah premium, pengiriman buah, buah organik",

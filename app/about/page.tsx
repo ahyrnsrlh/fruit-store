@@ -49,14 +49,14 @@ export default function AboutPage() {
         <div className="container mx-auto px-4">
           <div className="text-center max-w-4xl mx-auto">
             <Badge className="bg-green-100 text-green-800 hover:bg-green-100 mb-4">
-              Tentang FreshFruit
+              Tentang Buahnesia
             </Badge>
             <h1 className="text-5xl font-bold text-gray-900 mb-6">
               Misi Kami Menghadirkan
               <span className="text-green-600"> Buah Segar Berkualitas</span>
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed">
-              FreshFruit didirikan dengan visi menjadi platform terdepan dalam
+              Buahnesia didirikan dengan visi menjadi platform terdepan dalam
               menyediakan buah-buahan segar berkualitas premium langsung dari
               kebun ke meja makan keluarga Indonesia. Kami berkomitmen mendukung
               petani lokal dan memberikan pengalaman berbelanja buah yang tak
@@ -77,7 +77,7 @@ export default function AboutPage() {
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
                   Berawal dari keprihatinan terhadap sulitnya mendapatkan buah
-                  segar berkualitas di perkotaan, FreshFruit hadir sebagai
+                  segar berkualitas di perkotaan, Buahnesia hadir sebagai
                   solusi inovatif yang menghubungkan konsumen langsung dengan
                   petani terbaik.
                 </p>

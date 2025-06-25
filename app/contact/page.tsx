@@ -35,7 +35,7 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    details: ["info@freshfruit.com", "support@freshfruit.com"],
+    details: ["info@buahnesia.com", "support@buahnesia.com"],
     description: "Respon dalam 24 jam",
   },
   {
@@ -277,7 +277,7 @@ export default function ContactPage() {
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Lokasi Toko FreshFruit - Bandar Lampung"
+                title="Lokasi Toko Buahnesia - Bandar Lampung"
                 className="w-full h-full"
               ></iframe>
               <div className="absolute bottom-4 left-4 bg-white/95 backdrop-blur-sm rounded-lg p-4 shadow-lg max-w-xs">
@@ -285,7 +285,7 @@ export default function ContactPage() {
                   <MapPin className="w-5 h-5 text-green-600 mt-0.5 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold text-gray-900 text-sm">
-                      Toko FreshFruit
+                      Toko Buahnesia
                     </h3>
                     <p className="text-gray-600 text-xs mt-1">
                       Jl. ZA. Pagar Alam No. 123

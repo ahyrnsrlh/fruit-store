@@ -19,7 +19,7 @@ export function Footer() {
               <div className="w-8 h-8 bg-green-600 rounded-full flex items-center justify-center">
                 <span className="text-white font-bold text-sm">🍎</span>
               </div>
-              <span className="text-xl font-bold">FreshFruit</span>
+              <span className="text-xl font-bold">Buahnesia</span>
             </div>
             <p className="text-gray-400 leading-relaxed">
               Toko buah online terpercaya dengan kualitas premium dan pengiriman
@@ -135,7 +135,7 @@ export function Footer() {
               </li>
               <li className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-green-400" />
-                <span className="text-gray-400">info@freshfruit.com</span>
+                <span className="text-gray-400">info@buahnesia.com</span>
               </li>
               <li className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-green-400 mt-0.5" />
